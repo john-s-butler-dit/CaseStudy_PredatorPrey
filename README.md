@@ -11,9 +11,9 @@
 
 5. [Logistic population non-linear differential equation with oscilation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal.ipynb)
 * Numerical Assignment 2: Dodos and Humans
-6. [Predator-Prey differential equations Stanility](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb)
-7. [Predator-Prey differential equations](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/07_Pred_Prey-Stability.ipynb)
+6. [Predator-Prey differential equations](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb)
+7. [Predator-Prey differential equations Phase Plane](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/07_Pred_Prey-Stability.ipynb)
 * Numerical Assignment 3: Rabbits, Foxes and Myxomatosis
-8. [Predator-Prey differnetial equations Null clines.](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
+8. [Predator-Prey differnetial equations Phase Plane Jacobian](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
 
 Use this link to download[https://nbviewer.jupyter.org/github/john-s-butler-dit/CaseStudy_PredatorPrey/tree/master/]

@@ -1,4 +1,4 @@
-# Case Study: Differential Equations (MATH4806)
+# Case Study: Differential Equations (MATH4827)
 ## Leaky Integration
 1. [Distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/01_Unisensory_Campos_Butler_Bulthoff.ipynb)
 2. [Multisensory distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/02_Campos_Butler_Bulthoff-Multisensory.ipynb)

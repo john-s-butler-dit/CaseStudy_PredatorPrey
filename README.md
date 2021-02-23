@@ -19,7 +19,6 @@
 Use this link to download[https://nbviewer.jupyter.org/github/john-s-butler-dit/CaseStudy_PredatorPrey/tree/master/]
 
 ## References
-# References
 
 [1] Stover, Christopher and Weisstein, Eric W. "Population Growth." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/PopulationGrowth.html
 

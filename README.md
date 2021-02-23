@@ -16,7 +16,6 @@
 * [Numerical Assignment 3: Rabbits, Foxes and Myxomatosis](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA3_Rabbit%20Foxes%20Myxomatosis.ipynb)
 8. [Predator-Prey differnetial equations Phase Plane Jacobian](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
 
-Use this link to download[https://nbviewer.jupyter.org/github/john-s-butler-dit/CaseStudy_PredatorPrey/tree/master/]
 
 ## References
 

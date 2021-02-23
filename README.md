@@ -3,7 +3,7 @@
 Developed and taught by John S Butler
 
 ## Description of Module
-This is an introduction to the mathematics to predator-prey models.
+This is an introduction to the mathematics of the predator-prey model.
 
 ## Leaky Integration
 1. [Distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/01_Unisensory_Campos_Butler_Bulthoff.ipynb)

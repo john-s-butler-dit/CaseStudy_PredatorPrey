@@ -1,15 +1,15 @@
 # Case Study: Differential Equations (MATH4827)
 
-Developed and taught by John S Butler
+Developed and taught by John S Butler (TU Dublin)
 
 ## Description of Module
 This is an introduction to the mathematics of the predator-prey model.
 
-## Leaky Integration
+## Leaky Integration [1]
 1. [Distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/01_Unisensory_Campos_Butler_Bulthoff.ipynb)
 2. [Multisensory distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/02_Campos_Butler_Bulthoff-Multisensory.ipynb)
 
-## Predator Prey
+## Predator Prey [2, 3, 4, 5]
 3. [Linear population differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/03_Linear%20Population%20Growth.ipynb)
 4. [Logistic population non-linear differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logisitic%20Population%20Differential%20Equations.ipynb)
 
@@ -26,6 +26,7 @@ This is an introduction to the mathematics of the predator-prey model.
 ## References
 
 [1] Campos, J. L., Butler, J. S., & Bülthoff, H. H. (2014). Contributions of visual and proprioceptive information to travelled distance estimation during changing sensory congruencies. Experimental brain research, 232(10), 3277-3289.
+
 [2] Stover, Christopher and Weisstein, Eric W. "Population Growth." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/PopulationGrowth.html
 
 [3]  Vito Volterra.  Fluctuations in the abundance of a species considered mathematically. Nature,118:558–560,1926.

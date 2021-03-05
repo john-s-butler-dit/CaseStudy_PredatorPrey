@@ -3,7 +3,7 @@
 Developed and taught by John S Butler (TU Dublin)
 
 ## Description of Module
-This is an introduction to the mathematics differential equations motivated by Leaky Intergration and the Predator-Prey model using python notebooks.
+This is an introduction to the mathematics differential equations motivated by Leaky Integration and the Predator-Prey model using python notebooks.
 
 ## Leaky Integration
 The Leaky Intergration differential equation describes how infromation is leaked over time. Here I use the example of multisensory distance estimation to illustrate the model [1].
@@ -12,6 +12,7 @@ The Leaky Intergration differential equation describes how infromation is leaked
 
 ## Predator Prey 
 The Predator-Prey model is a differential equation that describes the interaction between two or more species [2, 3, 4, 5].
+
 3. [Linear population differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/03_Linear%20Population%20Growth.ipynb)
 4. [Logistic population non-linear differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logisitic%20Population%20Differential%20Equations.ipynb)
 

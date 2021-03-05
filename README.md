@@ -5,13 +5,13 @@ Developed and taught by John S Butler (TU Dublin)
 ## Description of Module
 This is an introduction to the mathematics differential equations motivated by the Leaky Intergration and the Predator-prey model using python notebooks.
 
-## Leaky Integration [1]
-The Leaky Intergration differential equation describes how infromation is leaked over time.
+## Leaky Integration
+The Leaky Intergration differential equation describes how infromation is leaked over time. Here I use the example of multisensory distance estimation to illustrate the model [1].
 1. [Distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/01_Unisensory_Campos_Butler_Bulthoff.ipynb)
 2. [Multisensory distance estimation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/02_Campos_Butler_Bulthoff-Multisensory.ipynb)
 
-## Predator Prey [2, 3, 4, 5]
-The Predator-Prey model is a differential equation that describes the interaction between two or more species.
+## Predator Prey 
+The Predator-Prey model is a differential equation that describes the interaction between two or more species [2, 3, 4, 5].
 3. [Linear population differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/03_Linear%20Population%20Growth.ipynb)
 4. [Logistic population non-linear differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logisitic%20Population%20Differential%20Equations.ipynb)
 
@@ -42,7 +42,7 @@ The Predator-Prey model is a differential equation that describes the interactio
 [5] Strogatz, S.  Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering (studies in nonlinearity), Westview Press; 2 edition (29 July 2014)
 
 -----
-## Extra Reading References
+## Supplemental Reading
 
 Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Using Mathematics to Forecast the Spread of Infectious Diseases. Front. Young Minds. 9:577741. doi: 10.3389/frym.2020.577741
 
@@ -55,5 +55,5 @@ The Relationship Equation - Numberphile. (2015, April 3). [Video]. YouTube. http
 How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.youtube.com/watch?v=ysa5OBhXz-Q
 
 -----
-## Popular Press Bibliography 
+## Popular Press Reading 
 Tree, I. (2018). Wilding: The return of nature to a British farm. Pan Macmillan.

@@ -22,6 +22,10 @@ This is an introduction to the mathematics of the predator-prey model.
 * [Numerical Assignment 3: Rabbits, Foxes and Myxomatosis](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA3_Rabbit%20Foxes%20Myxomatosis.ipynb)
 8. [Predator-Prey differnetial equations Phase Plane Jacobian](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
 
+## Conceptual Applications of the Predator Prey Models
+* [The re-introduction to wolves into Ireland](https://colab.research.google.com/github/john-s-butler-dit/MathsWeek_Wolves/blob/master/Predator%20Prey%20Model%20Wolves.ipynb)
+* [Modelling the impact of mirco-plastics on fish and humans](https://colab.research.google.com/github/john-s-butler-dit/MicroPlastics/blob/master/Predator%20Prey%20Model%20Plastics%20Reduced.ipynb)
+
 
 ## References
 
@@ -34,3 +38,13 @@ This is an introduction to the mathematics of the predator-prey model.
 [4] Alfred J Lotka.   Analytical note on certain rhythmic  relations inorganic  systems.Proceedings of the National Academy of Sciences,6(7):410–415,1920.
 
 [5] Strogatz, S.  Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering (studies in nonlinearity), Westview Press; 2 edition (29 July 2014)
+
+## Extra Reading References
+
+Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Using Mathematics to Forecast the Spread of Infectious Diseases. Front. Young Minds. 9:577741. doi: 10.3389/frym.2020.577741
+Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathematics of Predator-Prey Dynamics. Retrieved from osf.io/jk5e7
+
+## Videos 
+The Relationship Equation - Numberphile. (2015, April 3). [Video]. YouTube. https://www.youtube.com/watch?v=BkOIw7vAZCQ
+
+How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.youtube.com/watch?v=ysa5OBhXz-Q

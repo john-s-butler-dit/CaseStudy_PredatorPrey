@@ -43,7 +43,6 @@ This is an introduction to the mathematics of the predator-prey model.
 ## Extra Reading References
 
 Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Using Mathematics to Forecast the Spread of Infectious Diseases. Front. Young Minds. 9:577741. doi: 10.3389/frym.2020.577741
-
 Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathematics of Predator-Prey Dynamics. Retrieved from osf.io/jk5e7
 ------
 ## Videos 

@@ -3,7 +3,7 @@
 Developed and taught by John S Butler (TU Dublin)
 
 ## Description of Module
-This is an introduction to the mathematics differential equations motivated by the Leaky Intergration and the Predator-prey model using python notebooks.
+This is an introduction to the mathematics differential equations motivated by Leaky Intergration and the Predator-Prey model using python notebooks.
 
 ## Leaky Integration
 The Leaky Intergration differential equation describes how infromation is leaked over time. Here I use the example of multisensory distance estimation to illustrate the model [1].

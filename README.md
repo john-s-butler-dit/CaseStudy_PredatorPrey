@@ -53,3 +53,7 @@ Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathem
 The Relationship Equation - Numberphile. (2015, April 3). [Video]. YouTube. https://www.youtube.com/watch?v=BkOIw7vAZCQ
 
 How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.youtube.com/watch?v=ysa5OBhXz-Q
+
+-----
+## Popular Press Bibliography 
+Tree, I. (2018). Wilding: The return of nature to a British farm. Pan Macmillan.

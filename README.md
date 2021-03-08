@@ -18,7 +18,7 @@ The Predator-Prey model is a differential equation that describes the interactio
 
 * [Numerical Assignment 1: Dodos](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA01_Dodos.ipynb)
 
-5. [Logistic population non-linear differential equation with oscilation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal.ipynb)
+5. [Logistic population non-linear differential equation with oscillation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal.ipynb)
 * [Numerical Assignment 2: Dodos and Humans](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA02_Dodos%20and%20Humans.ipynb)
 6. [Predator-Prey differential equations](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb)
 7. [Predator-Prey differential equations Phase Plane](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/07_Pred_Prey-Stability.ipynb)

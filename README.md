@@ -50,7 +50,11 @@ Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Usi
 Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathematics of Predator-Prey Dynamics. Retrieved from osf.io/jk5e7
 
 ------
-## Videos 
+## Supplementary Video Lectures 
+Steven Strogatz. (2021, March 1). Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University [Video]. YouTube. https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V
+
+------
+## Popular Videos 
 The Relationship Equation - Numberphile. (2015, April 3). [Video]. YouTube. https://www.youtube.com/watch?v=BkOIw7vAZCQ
 
 How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.youtube.com/watch?v=ysa5OBhXz-Q
@@ -60,4 +64,8 @@ How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.you
 Tree, I. (2018). Wilding: The return of nature to a British farm. Pan Macmillan.
 
 Strogatz, S. (2004). Sync: The emerging science of spontaneous order. Penguin UK.
+----
+## Podcasts
+
+Strogatz, S.  (2019-2021). Joy of X. Quanta Magazine. https://www.quantamagazine.org/tag/the-joy-of-x
 

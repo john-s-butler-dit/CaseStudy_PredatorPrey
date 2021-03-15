@@ -25,9 +25,10 @@ The Predator-Prey model is a differential equation that describes the interactio
 * [Numerical Assignment 3: Rabbits, Foxes and Myxomatosis](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA3_Rabbit%20Foxes%20Myxomatosis.ipynb)
 8. [Predator-Prey differnetial equations Phase Plane Jacobian](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
 
-## Conceptual Applications of the Predator Prey Models
+## Example Applications of the Predator Prey Models
 * [The re-introduction of wolves into Ireland](https://colab.research.google.com/github/john-s-butler-dit/MathsWeek_Wolves/blob/master/Predator%20Prey%20Model%20Wolves.ipynb)
 * [Modelling the impact of mirco-plastics on fish and humans](https://colab.research.google.com/github/john-s-butler-dit/MicroPlastics/blob/master/Predator%20Prey%20Model%20Plastics%20Reduced.ipynb)
+* [Modelling the spread of a disease using an SIR model](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/SIR_Model.ipynb)
 
 
 ## References

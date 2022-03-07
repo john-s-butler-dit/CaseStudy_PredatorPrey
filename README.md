@@ -14,21 +14,21 @@ The Leaky Intergration differential equation describes how infromation is leaked
 The Predator-Prey model is a differential equation that describes the interaction between two or more species [2, 3, 4, 5].
 
 3. [Linear population differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/03_Linear%20Population%20Growth.ipynb)
-4. [Logistic population non-linear differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logisitic%20Population%20Differential%20Equations.ipynb)
+4. [Logistic population non-linear differential equation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logisitic%20Population%20Differential%20Equations.ipynb) [INTERACTIVE](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/04_Logistic%20Population%20Differential%20Equations%20Interactive.ipynb)
 
 * [Numerical Assignment 1: Dodos](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA01_Dodos.ipynb)
 
-5. [Logistic population non-linear differential equation with oscillation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal.ipynb)
+5. [Logistic population non-linear differential equation with oscillation](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal.ipynb) [INTERACTIVE](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/05_Logistic%20Growth%20with%20Seasonal-Interactive.ipynb)
 * [Numerical Assignment 2: Dodos and Humans](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA02_Dodos%20and%20Humans.ipynb)
-6. [Predator-Prey differential equations](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb)
-7. [Predator-Prey differential equations Phase Plane](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/07_Pred_Prey-Stability.ipynb)
+6. [Predator-Prey differential equations](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb) [INTERACTIVE](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/06_Snow%20Hares%20and%20Lynxes.ipynb)
+7. [Predator-Prey differential equations Phase Plane](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/07_Pred_Prey-Stability.ipynb) 
 * [Numerical Assignment 3: Rabbits, Foxes and Myxomatosis](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/NA3_Rabbit%20Foxes%20Myxomatosis.ipynb)
 8. [Predator-Prey differnetial equations Phase Plane Jacobian](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/08_Snow%20Hares%20and%20Lynxes-Stability-Jacobian.ipynb)
 
 ## Example Applications of the Predator Prey Models
 * [The re-introduction of wolves into Ireland](https://colab.research.google.com/github/john-s-butler-dit/MathsWeek_Wolves/blob/master/Predator%20Prey%20Model%20Wolves.ipynb)
 * [Modelling the impact of mirco-plastics on fish and humans](https://colab.research.google.com/github/john-s-butler-dit/MicroPlastics/blob/master/Predator%20Prey%20Model%20Plastics%20Reduced.ipynb)
-* [Modelling the spread of a disease using an SIR model](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/SIR_Model.ipynb)
+* [Modelling the spread of a disease using an SIR model](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/SIR_Model.ipynb) [INTERACTIVE](https://colab.research.google.com/github/john-s-butler-dit/CaseStudy_PredatorPrey/blob/master/SIR_Model-Interactive.ipynb)
 
 
 ## References
@@ -58,7 +58,7 @@ Steven Strogatz. (2021, March 1). Nonlinear Dynamics and Chaos - Steven Strogatz
 ## Popular Videos 
 The Relationship Equation - Numberphile. (2015, April 3). [Video]. YouTube. https://www.youtube.com/watch?v=BkOIw7vAZCQ
 
-How Wolves Change Rivers. (2014, February 13). [Video]. YouTube. https://www.youtube.com/watch?v=ysa5OBhXz-Q
+Monbiot, G., How Wolves Change Rivers TED TALK. (2014, February 13). [Video]. YouTube. https://www.ted.com/talks/george_monbiot_for_more_wonder_rewild_the_world?language=en
 
 -----
 ## Popular Press Reading 

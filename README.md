@@ -50,6 +50,8 @@ Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Usi
 
 Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathematics of Predator-Prey Dynamics. Retrieved from osf.io/jk5e7
 
+Campos JL, Pandi M and Butler JS (2020) “Feeling” Ourselves Move: A Team Effort by Our Senses. Front. Young Minds. 8:9. doi: 10.3389/frym.2020.00009
+
 ------
 ## Supplementary Video Lectures 
 Steven Strogatz. (2021, March 1). Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University [Video]. YouTube. https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V

@@ -48,7 +48,7 @@ The Predator-Prey model is a differential equation that describes the interactio
 
 Brooks H, Kanjanasaratool U, Kureh Y and Porter M (2021) Disease Detectives: Using Mathematics to Forecast the Spread of Infectious Diseases. Front. Young Minds. 9:577741. doi: 10.3389/frym.2020.577741
 
-Brady, R. M., & Butler, J. S. (2021, January 11). The Circle of Life: The Mathematics of Predator-Prey Dynamics. Retrieved from osf.io/jk5e7
+Brady RM and Butler JS (2021) The Circle of Life: The Mathematics of Predator-Prey Relationships. Front. Young Minds. 9:651131. doi: 10.3389/frym.2021.651131
 
 Campos JL, Pandi M and Butler JS (2020) “Feeling” Ourselves Move: A Team Effort by Our Senses. Front. Young Minds. 8:9. doi: 10.3389/frym.2020.00009
 
